@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Collection [
+	<!ELEMENT Collection (Description, Recipe+)>
+	<!ELEMENT Description (#PCDATA)>
+	<!ELEMENT Recipe (Title, Ingredients, Preparation, Comment?, Nutrients)>
+	<!ELEMENT Title (#PCDATA)>
+	<!ELEMENT Ingredients (Ingredient+)>
+	<!ELEMENT Preparation (Step+)>
+	<!ELEMENT Comment (#PCDATA)>
+	<!ELEMENT Nutrients EMPTY>
+	<!ELEMENT Ingredient EMPTY>
+	<!ELEMENT Step (#PCDATA)>	
+	
+	
+	<!ATTLIST Nutrients Proteins CDATA #REQUIRED
+						Fat CDATA #REQUIRED
+						Carbs CDATA #IMPLIED	
+						Vitamins NMTOKENS #REQUIRED
+						KCals CDATA #REQUIRED>
+	<!ATTLIST Ingredient Name CDATA #REQUIRED
+						Quantity CDATA #REQUIRED
+						Unit CDATA #REQUIRED>
+						]>
+
+<Collection>
+	<Description>
+		Easy way to make pumpkin pie
+	</Description>
+
+	<Recipe>
+		<Title>
+			Spicy pumpkin pie recipe
+		</Title>
+
+		<Ingredients>
+			<Ingredient Name="pumpkin" Quantity="1" Unit="piece" />
+		</Ingredients>
+
+		<Preparation>
+			<Step>
+				1.Bake the pumkin
+			</Step>
+		</Preparation>
+		<Comment>
+			No comment
+		</Comment>
+		<Nutrients Proteins="10" Carbs="10" Fat="10" Vitamins="100"
+			KCals="233" />
+	</Recipe>
+</Collection>						

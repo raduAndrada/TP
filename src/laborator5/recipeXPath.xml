@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Collection>
+	<Description>
+		Easy way to make pumpkin pie
+	</Description>
+
+	<Recipe>
+		<Title>
+			Spicy pumpkin pie recipe
+		</Title>
+
+		<Ingredients>
+			<Ingredient Name="pumpkin" Quantity="1" Unit="piece" />
+		</Ingredients>
+
+		<Preparation>
+			<Step>
+				1.Bake the pumpkin
+			</Step>
+		</Preparation>
+		<Comment>
+			No comment
+		</Comment>
+		<Nutrients Proteins="10" Carbs="10" Fat="10" Vitamins="100"
+			KCals="233" />
+	</Recipe>
+
+	<Description>
+		Easy way to make pumpkin pie
+	</Description>
+
+	<Recipe>
+		<Title>
+			Apple pie recipe
+		</Title>
+
+		<Ingredients>
+			<Ingredient Name="apple" Quantity="5" Unit="piece" />
+		</Ingredients>
+
+		<Preparation>
+			<Step>
+				1.Bake the apples
+			</Step>
+			<Step>
+				2.Mix in a crust
+			</Step>
+			<Step>
+				3.Put the apples on the crust
+			</Step>
+		</Preparation>
+		<Comment>
+			No comment
+		</Comment>
+		<Nutrients Proteins="100" Carbs="100" Fat="10" Vitamins="10"
+			KCals="333" />
+	</Recipe>
+</Collection>						
