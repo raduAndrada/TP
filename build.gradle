@@ -41,4 +41,8 @@ compile group: 'org.jdom', name: 'jdom2', version: '2.0.6'
 // https://mvnrepository.com/artifact/jaxen/jaxen
 compile group: 'jaxen', name: 'jaxen', version: '1.1.6'
 
+// https://mvnrepository.com/artifact/org.apache.xmlgraphics/fop
+compile group: 'org.apache.xmlgraphics', name: 'fop', version: '2.2'
+
+
 }
