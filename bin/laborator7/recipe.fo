@@ -1,26 +1,3 @@
 <fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format"><fo:layout-master-set><fo:simple-page-master master-name="simpleA4" page-height="27cm" page-width="21cm" margin-top="1.5cm" margin-bottom="1.5cm" margin-left="1.5cm" margin-right="1.5cm"><fo:region-body /></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="simpleA4"><fo:flow flow-name="xsl-region-body"><fo:block font-size="14pt">
 	Spicy pumpkin pie recipe
 	</fo:block></fo:flow></fo:page-sequence></fo:root>
-	
-	Spicy pumpkin pie recipe
-	
-	
-	
-		
-		  First ingr&gt;
-		
-		
-		  Second ingr&gt;
-		
-	
-	
-	
-		
-		1.Bake the pumkin
-		
-	
-	
-	No comment
-	
-	
-	

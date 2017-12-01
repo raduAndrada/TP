@@ -44,5 +44,14 @@ compile group: 'jaxen', name: 'jaxen', version: '1.1.6'
 // https://mvnrepository.com/artifact/org.apache.xmlgraphics/fop
 compile group: 'org.apache.xmlgraphics', name: 'fop', version: '2.2'
 
+// https://mvnrepository.com/artifact/org.apache.poi/poi
+compile group: 'org.apache.poi', name: 'poi', version: '3.13'
+
+// https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml
+compile group: 'org.apache.poi', name: 'poi-ooxml', version: '3.13'
+
+
+
+
 
 }
