@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faculty>
+  <student id="0" lastname="Group" />
+  <student id="0" lastname="Subgroup" />
+  <student id="0" firstname="FirstName" />
+  <student id="0" lastname="LastName" />
+  <student id="1" group="30244.0" />
+  <student id="1" subgroup="2.0" />
+  <student id="1" firstname="Radu" />
+  <student id="1" lastname="Andrada" />
+  <student id="2" group="30355.0" />
+  <student id="2" subgroup="2.0" />
+  <student id="2" firstname="Alin" />
+  <student id="2" lastname="Daniel" />
+  <student id="3" group="32100.0" />
+  <student id="3" subgroup="1.0" />
+  <student id="3" firstname="Daniel" />
+  <student id="3" lastname="Martin" />
+  <student id="4" group="30213.0" />
+  <student id="4" subgroup="1.0" />
+  <student id="4" firstname="Ion" />
+  <student id="4" lastname="Ionel" />
+</faculty>
